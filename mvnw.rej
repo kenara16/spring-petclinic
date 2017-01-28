@@ -1,0 +1,7 @@
+diff a/mvnw b/mvnw	(rejected hunks)
+@@ -3,3 +4,5 @@
++# first commit test
++
+ #!/bin/sh
+ # ----------------------------------------------------------------------------
+ # Licensed to the Apache Software Foundation (ASF) under one
