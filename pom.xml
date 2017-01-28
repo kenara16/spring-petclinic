@@ -50,7 +50,7 @@
     <repository>
       <id>nexus-local</id>
       <url>http://localhost:8081/repository/maven-releases</url>
-    </repository>
+    <repository>
   </distributionManagement>
 
 
