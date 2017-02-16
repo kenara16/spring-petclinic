@@ -119,7 +119,7 @@ public class ValidatorSpockTests extends Specification {
 
 	
 	// 6. TODO: validate a against a valid last name (non-empty, non-null value).
-	def "first name cannot be empty or null"() {
+	def "last name cannot be empty or null"() {
 	  setup:
 	  def person = new Person();
 	  def validator = createValidator();
